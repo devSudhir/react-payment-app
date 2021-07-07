@@ -1,0 +1,36 @@
+div {
+  padding: 20px;
+  width: 50vw;
+  margin: 20px auto;
+}
+div p {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+div button {
+  color: #fff;
+  background-color: black;
+  padding: 20px;
+  font-size: 1.4rem;
+}
+div h1 {
+  font-size: 2.5rem;
+}
+div h2 {
+  font-size: 2rem;
+}
+div h3 {
+  font-size: 1.6rem;
+}
+div span {
+  display: flex;
+  max-width: 100%;
+  justify-content: space-between;
+}
+span img {
+  width: 30%;
+  border-radius: 60%;
+}
+span p {
+  font-size: 2rem;
+}
